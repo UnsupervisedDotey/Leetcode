@@ -21,7 +21,7 @@ class Solution:
 			for i in range(len(x)):
 				results += x[i] * (10**(len(x)-i-1))
 			
-			if results < -2147483647:
+			if - results < -2147483647:
 				return 0
 
 			return -results
