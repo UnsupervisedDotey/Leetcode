@@ -15,7 +15,7 @@ https://leetcode.com/tag/array/
 
 |     BABE      | PROGRESS                              |
 | :-----------: | ------------------------------------- |
-|   Yiran Han   | 1/692 Solved - Easy 1 Medium 0 Hard 0 |
+|   Yiran Han   | 2/692 Solved - Easy 2 Medium 0 Hard 0 |
 |  Yangyang Li  | 0/692 Solved - Easy 0 Medium 0 Hard 0 |
 | Fengfeng Tian | 0/692 Solved - Easy 0 Medium 0 Hard 0 |
 |   Boyan Wei   | 0/692 Solved - Easy 0 Medium 0 Hard 0 |
