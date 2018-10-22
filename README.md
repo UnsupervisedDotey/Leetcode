@@ -16,6 +16,6 @@ https://leetcode.com/tag/array/
 |     BABE      | PROGRESS                              |
 | :-----------: | ------------------------------------- |
 |   Yiran Han   | 3/692 Solved - Easy 3 Medium 0 Hard 0 |
-| Fangling Liu  | 3/692 Solved - Easy 3 Medium 0 Hard 0 |
+| Fangling Liu  | 5/692 Solved - Easy 5 Medium 0 Hard 0 |
 
 
