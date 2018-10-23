@@ -9,6 +9,6 @@ Leetcoding with python
 |     BABE      | PROGRESS                              |
 | :-----------: | ------------------------------------- |
 |   Yiran Han   | 3/692 Solved - Easy 3 Medium 0 Hard 0 |
-| Fangling Liu  | 5/692 Solved - Easy 5 Medium 0 Hard 0 |
+| Fangling Liu  | 6/692 Solved - Easy 6 Medium 0 Hard 0 |
 
 
