@@ -1,7 +1,7 @@
 # Leetcode
 Leetcoding with python
 
-一个寂寞的芳菱，等待下一个人在此编辑。
+一个寂寞的芳菱，等待一个小可爱来在此编辑。
 
 
 ## 当前进度
