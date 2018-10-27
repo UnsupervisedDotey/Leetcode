@@ -6,9 +6,9 @@ Leetcoding with python
 
 ## 当前进度
 
-|     BABE      | PROGRESS                              |
-| :-----------: | ------------------------------------- |
-|   Yiran Han   | 3/758 Solved - Easy 3 Medium 0 Hard 0 |
-| Fangling Liu  | 9/758 Solved - Easy 9 Medium 0 Hard 0 |
+|     BABE      | PROGRESS                                |
+| :-----------: | --------------------------------------- |
+|   Yiran Han   |  3/758 Solved - Easy  3 Medium 0 Hard 0  |
+| Fangling Liu  | 10/758 Solved - Easy 10 Medium 0 Hard 0 |
 
 
