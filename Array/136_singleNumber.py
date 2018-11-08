@@ -24,6 +24,22 @@ class Solution(object):
                 else:
                     return n1
 
+        '''
+        nums.sort()
+        for i in range(0,len(nums)-1,2):
+            if nums[i]!=nums[i+1]:
+                return nums[i]
+                break
+        return nums[-1]
+        '''
+
+        '''
+        iX = 0
+        for iTmp in nums:
+            iX ^= iTmp      # 按位异或然后赋值     [2,2,1,3,3]
+        return iX           # 太神奇了         iX = 2,0,1,2,1
+        '''
+
 
 
 
