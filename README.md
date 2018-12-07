@@ -18,6 +18,6 @@ FL: 有的呀，https://leetcode-cn.com/problemset/all/ 里面选题，有题目
 |     BABE      | PROGRESS                                |
 | :-----------: | --------------------------------------- |
 |   Yiran Han   |  3/775 Solved - Easy  3 Medium 0 Hard 0 |
-| Fangling Liu  | 35/775 Solved - Easy 24 Medium 11 Hard 0 |
+| Fangling Liu  | 36/775 Solved - Easy 24 Medium 12 Hard 0 |
 |    Jing Xie   |  0/775 Solved - Easy  0 Medium 0 Hard 0 |
 
