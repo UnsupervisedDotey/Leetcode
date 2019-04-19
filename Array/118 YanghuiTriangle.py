@@ -10,7 +10,7 @@ class Solution:
 
         _saved = res[-1]
         to_be_used = res[-1]
-        # 思路：明天写两行_saved 上下两行
+
         if numRows <= 2:
             return res
 
