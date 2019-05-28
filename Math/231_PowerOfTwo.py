@@ -6,7 +6,8 @@ class Solution(object):
         """
 
         '''
-        我是傻子?
+        我是
+        傻子
         if n <= 0:
             return False
         k = int(math.log(n, 2))       
