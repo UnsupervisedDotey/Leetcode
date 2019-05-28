@@ -6,7 +6,7 @@ class Solution(object):
         """
 
         '''
-        我是傻子
+        我是傻子?
         if n <= 0:
             return False
         k = int(math.log(n, 2))       
@@ -20,6 +20,7 @@ class Solution(object):
                 return True
 
         return False
+
 
 sol = Solution()
 print(sol.isPowerOfTwo(218))
