@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/121_maxProfit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/bestTimeToBuyAndSellStock.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/maximumSubarray.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dynamic Programming/121_maxProfit.py">
+        <entry file="file://$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state>
+              <caret selection-end-line="22" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -46,6 +45,7 @@
         <option value="$PROJECT_DIR$/Math/171_titleToNumber.py" />
         <option value="$PROJECT_DIR$/Dynamic Programming/70_climbStairs.py" />
         <option value="$PROJECT_DIR$/Dynamic Programming/121_maxProfit.py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py" />
       </list>
     </option>
   </component>
@@ -103,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.121_maxProfit">
+  <component name="RunManager" selected="Python.53_maxSubArray">
     <configuration name="121_maxProfit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="682_calPoints" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="53_maxSubArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/682_calPoints.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.53_maxSubArray" />
         <item itemvalue="Python.121_maxProfit" />
         <item itemvalue="Python.70_climbStairs" />
         <item itemvalue="Python.171_titleToNumber" />
         <item itemvalue="Python.reverseWordsInAString3" />
-        <item itemvalue="Python.682_calPoints" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560914521363</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="执行用时 :76 ms, 在所有 Python3 提交中击败了34.76%的用户&#10;内存消耗 :14 MB, 在所有 Python3 提交中击败了37.73%的用户">
+      <created>1561020343831</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1561020343831</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -326,7 +333,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49753347" visible="true" weight="0.28674698" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49753347" visible="true" weight="0.34819278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -349,7 +356,8 @@
     <MESSAGE value="执行用时 : 88 ms, 在Baseball Game的Python3提交中击败了11.80% 的用户&#10;内存消耗 : 13.1 MB, 在Baseball Game的Python3提交中击败了74.63% 的用户" />
     <MESSAGE value="执行用时 :56 ms, 在所有Python3提交中击败了87.02%的用户&#10;内存消耗 :13 MB, 在所有Python3提交中击败了99.20%的用户" />
     <MESSAGE value="执行用时 :52 ms, 在所有 Python3 提交中击败了75.03%的用户&#10;内存消耗 :13 MB, 在所有 Python3 提交中击败了96.90%的用户" />
-    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :52 ms, 在所有 Python3 提交中击败了75.03%的用户&#10;内存消耗 :13 MB, 在所有 Python3 提交中击败了96.90%的用户" />
+    <MESSAGE value="执行用时 :76 ms, 在所有 Python3 提交中击败了34.76%的用户&#10;内存消耗 :14 MB, 在所有 Python3 提交中击败了37.73%的用户" />
+    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :76 ms, 在所有 Python3 提交中击败了34.76%的用户&#10;内存消耗 :14 MB, 在所有 Python3 提交中击败了37.73%的用户" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -434,8 +442,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dynamic Programming/121_maxProfit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="18" />
         </state>
       </provider>
     </entry>
