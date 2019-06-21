@@ -17,9 +17,10 @@ class Solution:
                 max_sum = max([max_sum+n, n])
 
             ans = max([max_sum, ans])
-            # print(n, max_sum, ans)
+
         if len([each for each in nums if each < 0]) == len(nums):
             ans = max(nums)
+
         return ans
 
 
