@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/maximumSubarray.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/746_minCostClimbingStairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,13 +11,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Leetcode" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py">
+        <entry file="file://$PROJECT_DIR$/Dynamic Programming/746_minCostClimbingStairs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="559">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -46,12 +49,14 @@
         <option value="$PROJECT_DIR$/Dynamic Programming/70_climbStairs.py" />
         <option value="$PROJECT_DIR$/Dynamic Programming/121_maxProfit.py" />
         <option value="$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/746.py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/746_minCostClimbingStairs.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,23 +66,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic Programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -103,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.53_maxSubArray">
+  <component name="RunManager" selected="Python.746_minCostClimbingStairs">
     <configuration name="121_maxProfit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverseWordsInAString3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="746_minCostClimbingStairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/reverseWordsInAString3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/746_minCostClimbingStairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.746_minCostClimbingStairs" />
         <item itemvalue="Python.53_maxSubArray" />
         <item itemvalue="Python.121_maxProfit" />
         <item itemvalue="Python.70_climbStairs" />
         <item itemvalue="Python.171_titleToNumber" />
-        <item itemvalue="Python.reverseWordsInAString3" />
       </list>
     </recent_temporary>
   </component>
@@ -321,26 +311,40 @@
       <option name="project" value="LOCAL" />
       <updated>1561020343831</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="执行用时 :116 ms, 在所有 Python3 提交中击败了7.34%的用户&#10;内存消耗 :13.4 MB, 在所有 Python3提交中击败了96.67%的用户">
+      <created>1561024139173</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561024139173</updated>
+    </task>
+    <task id="LOCAL-00015" summary="执行用时 :116 ms, 在所有 Python3 提交中击败了7.34%的用户&#10;内存消耗 :13.4 MB, 在所有 Python3提交中击败了96.67%的用户">
+      <created>1561080205917</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1561080205918</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23608175" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.2660842" />
+      <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
+      <window_info id="Favorites" order="2" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49753347" visible="true" weight="0.34819278" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49753347" weight="0.24216868" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49960285" weight="0.32876712" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32771084" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5024665" side_tool="true" weight="0.28674698" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5024665" side_tool="true" weight="0.34819278" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49960285" weight="0.21204819" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -357,7 +361,8 @@
     <MESSAGE value="执行用时 :56 ms, 在所有Python3提交中击败了87.02%的用户&#10;内存消耗 :13 MB, 在所有Python3提交中击败了99.20%的用户" />
     <MESSAGE value="执行用时 :52 ms, 在所有 Python3 提交中击败了75.03%的用户&#10;内存消耗 :13 MB, 在所有 Python3 提交中击败了96.90%的用户" />
     <MESSAGE value="执行用时 :76 ms, 在所有 Python3 提交中击败了34.76%的用户&#10;内存消耗 :14 MB, 在所有 Python3 提交中击败了37.73%的用户" />
-    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :76 ms, 在所有 Python3 提交中击败了34.76%的用户&#10;内存消耗 :14 MB, 在所有 Python3 提交中击败了37.73%的用户" />
+    <MESSAGE value="执行用时 :116 ms, 在所有 Python3 提交中击败了7.34%的用户&#10;内存消耗 :13.4 MB, 在所有 Python3提交中击败了96.67%的用户" />
+    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :116 ms, 在所有 Python3 提交中击败了7.34%的用户&#10;内存消耗 :13.4 MB, 在所有 Python3提交中击败了96.67%的用户" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -406,13 +411,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/ClimbingStairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="3" lean-forward="true" selection-end-line="36" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/ClimbingStairs.py" />
     <entry file="file://$PROJECT_DIR$/Math/171_titleToNumber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -420,10 +419,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/70_climbStairs.py">
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/bestTimeToBuyAndSellStock.py" />
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/121_maxProfit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -437,20 +444,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/bestTimeToBuyAndSellStock.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/121_maxProfit.py">
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/746.py" />
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/70_climbStairs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="170">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py">
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/746_minCostClimbingStairs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="22" selection-end-column="18" />
+        <state relative-caret-position="559">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
