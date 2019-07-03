@@ -1,29 +1,27 @@
 class Solution:
     def minCostClimbingStairs(self, cost) -> int:
 
+        if len(cost) == 2:
+            return min(cost)
+
         res = 0
-        _left = 0
-        _right = 0
         _current = -1
+
         costs = cost
-        cost = cost + [0, 0]
+        cost = cost + [0, 0, 0, 0]
 
         while _current < len(costs):
 
-            _left = _current + 1
-            _right = _current + 2
+            power_1 = cost[_current+1] + min(cost[_current+2], cost[_current+3])
+            power_2 = cost[_current+2] + min(cost[_current+3], cost[_current+4])
 
-            print(_left, _right, _current)
+            print(power_1, power_2)
 
-            costs_tmp = [cost[_left], cost[_right]]
-            index_tmp = [_left, _right]
-
-            if cost[_left] != cost[_right]:
-                _min_index = costs_tmp.index(min(costs_tmp))
+            if power_1 < power_2:
+                _current = _current+1
             else:
-                _min_index = 1
+                _current = _current+2
 
-            _current = index_tmp[_min_index]
             res += cost[_current]
 
         return res
@@ -31,6 +29,6 @@ class Solution:
 
 if __name__ == "__main__":
 
-    input_list = [5, 15, 20]    # [1, 100, 1, 1, 1, 100, 1, 1, 100, 1]
+    input_list = [1, 0, 2, 2]
     sol = Solution()
     print(sol.minCostClimbingStairs(cost=input_list))
