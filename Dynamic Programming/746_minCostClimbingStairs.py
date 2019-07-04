@@ -5,24 +5,19 @@ class Solution:
             return min(cost)
 
         res = 0
-        _current = -1
 
         costs = cost
         cost = cost + [0, 0, 0, 0]
 
-        while _current < len(costs):
+        for i in range(len(costs)):
 
-            power_1 = cost[_current+1] + min(cost[_current+2], cost[_current+3])
-            power_2 = cost[_current+2] + min(cost[_current+3], cost[_current+4])
+            power_1 = res + cost[i] + min(cost[i+1], cost[i+2])
 
-            print(power_1, power_2)
+            if i == 0:
+                res = power_1
 
-            if power_1 < power_2:
-                _current = _current+1
-            else:
-                _current = _current+2
-
-            res += cost[_current]
+            if power_1 < res:
+                res += cost[i]
 
         return res
 
