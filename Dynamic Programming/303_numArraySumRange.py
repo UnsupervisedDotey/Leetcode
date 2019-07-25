@@ -1,6 +1,7 @@
 class NumArray:
 
     def __init__(self, nums):
+        # 这里可以改成dp求sum 不用函数
         self.sums = [0] + [sum(nums[0:l]) for l in range(1, len(nums)+1)]
         # print(self.sums)
 

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/numArraySumRange.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/numArraySumRange.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/numArraySumRange.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dynamic Programming/numArraySumRange.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="81">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -419,19 +418,26 @@
       <option name="project" value="LOCAL" />
       <updated>1564014236263</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="执行用时 :816 ms, 在所有 Python3 交中击败了40.29%的用户&#10;内存消耗 :17.4 MB, 在所有 Python3 提交中击败了5.54%的用户">
+      <created>1564015878349</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1564015878349</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.24354243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.24354243" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
       <window_info id="Favorites" order="2" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49753347" visible="true" weight="0.37472767" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49753347" visible="true" weight="0.37472767" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -461,7 +467,8 @@
     <MESSAGE value="746抄的，不会做" />
     <MESSAGE value="动态规划lfl人生初次总结。&#10;746抄的，不会做" />
     <MESSAGE value="UPDATE # FINISHED" />
-    <option name="LAST_COMMIT_MESSAGE" value="UPDATE # FINISHED" />
+    <MESSAGE value="执行用时 :816 ms, 在所有 Python3 交中击败了40.29%的用户&#10;内存消耗 :17.4 MB, 在所有 Python3 提交中击败了5.54%的用户" />
+    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :816 ms, 在所有 Python3 交中击败了40.29%的用户&#10;内存消耗 :17.4 MB, 在所有 Python3 提交中击败了5.54%的用户" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -574,8 +581,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dynamic Programming/numArraySumRange.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="81">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
         </state>
       </provider>
     </entry>
