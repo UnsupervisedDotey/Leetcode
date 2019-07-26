@@ -1,7 +1,7 @@
 # Leetcode
 
  每次做动态规划的题，我都觉得自己是个智障。
- ![avatar](http://baidu.com/pic/doge.png)
+ ![avatar](https://github.com/UnsupervisedDotey/Leetcode/raw/master/image/cry.jpg)
  
  
 # ===========================
