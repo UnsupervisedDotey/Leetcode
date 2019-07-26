@@ -11,4 +11,4 @@
 |     BABE      | PROGRESS                                  |
 | :-----------: | ----------------------------------------- |
 |   Yiran Han   |  3/775 Solved - Easy  3 Medium 0  Hard 0  |
-| Fangling Liu  | 60/775 Solved - Easy 46 Medium 14 Hard 0  |
+| Fangling Liu  | 61/775 Solved - Easy 47 Medium 14 Hard 0  |
