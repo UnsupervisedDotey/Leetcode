@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/877_stoneGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/_338_countBits_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game/lfl7824833 - 快捷方式.lnk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/877_stoneGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/877_stoneGame.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,25 +16,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="244">
-                <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+              <first_editor relative-caret-position="888">
+                <caret line="37" selection-start-line="37" selection-end-line="37" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dynamic Programming/877_stoneGame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="329">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/CETC-BDRI-2019/数据工程资源组/刘芳菱新任务1：数据分析解决业务问题/LM_BA.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -77,8 +79,8 @@
         <option value="$PROJECT_DIR$/Dynamic Programming/198_rob.py" />
         <option value="$PROJECT_DIR$/Dynamic Programming/338_countBits.py" />
         <option value="$PROJECT_DIR$/Dynamic Programming/_338_countBits_.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/877_stoneGame.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/877_stoneGame.py" />
       </list>
     </option>
   </component>
@@ -488,26 +490,33 @@
       <option name="project" value="LOCAL" />
       <updated>1564112829373</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="尝试自己做medium难度的dp，好虐。。">
+      <created>1564362446089</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1564362446090</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.1829204" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.1829204" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
       <window_info id="Favorites" order="2" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49710068" visible="true" weight="0.37472767" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49710068" visible="true" weight="0.21895425" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49868214" weight="0.3267974" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32771084" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50131786" side_tool="true" weight="0.24074075" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5028993" side_tool="true" weight="0.37472767" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49960285" weight="0.21204819" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -535,7 +544,8 @@
     <MESSAGE value="sumRange会重复加载" />
     <MESSAGE value="执行用时 :40 ms, 在所有 Python3 提交中击败了95.92%的用户&#10;内存消耗 :13.9 MB, 在所有 Python3 提交中击败了5.14%的用户" />
     <MESSAGE value="动态规划all easy done" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态规划all easy done" />
+    <MESSAGE value="尝试自己做medium难度的dp，好虐。。" />
+    <option name="LAST_COMMIT_MESSAGE" value="尝试自己做medium难度的dp，好虐。。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -644,24 +654,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/338_countBits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/338_countBits.py" />
     <entry file="file://$PROJECT_DIR$/Dynamic Programming/_338_countBits_.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/877_stoneGame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -675,10 +672,27 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="244">
-            <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <first_editor relative-caret-position="888">
+            <caret line="37" selection-start-line="37" selection-end-line="37" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/CETC-BDRI-2019/数据工程资源组/刘芳菱新任务1：数据分析解决业务问题/LM_BA.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/241980198/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="529" column="4" selection-start-line="529" selection-start-column="4" selection-end-line="529" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/877_stoneGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
