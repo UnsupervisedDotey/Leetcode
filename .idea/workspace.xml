@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SQL/181_SELF JOIN_earning-more-than-managers.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -589,7 +585,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566458843387</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="执行用时 :563 ms, 在所有 MySQL 提交中击败了58.52%的用户">
+      <created>1566465401806</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1566465401806</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -618,7 +621,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stack 1021" />
     <MESSAGE value="stack 682" />
     <MESSAGE value="执行用时 : 88 ms, 在Baseball Game的Python3提交中击败了11.80% 的用户&#10;内存消耗 : 13.1 MB, 在Baseball Game的Python3提交中击败了74.63% 的用户" />
     <MESSAGE value="执行用时 :56 ms, 在所有Python3提交中击败了87.02%的用户&#10;内存消耗 :13 MB, 在所有Python3提交中击败了99.20%的用户" />
@@ -643,7 +645,8 @@
     <MESSAGE value="执行用时 :201 ms, 在所有 MySQL 提交中击败了94.41%的用户" />
     <MESSAGE value="执行用时 :643 ms, 在所有 MySQL 提交中击败了5.64%的用户" />
     <MESSAGE value="执行用时 :337 ms, 在所有 MySQL 提交中击败了97.97%的用户" />
-    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :337 ms, 在所有 MySQL 提交中击败了97.97%的用户" />
+    <MESSAGE value="执行用时 :563 ms, 在所有 MySQL 提交中击败了58.52%的用户" />
+    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :563 ms, 在所有 MySQL 提交中击败了58.52%的用户" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
