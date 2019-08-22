@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SQL/175_combine-two-tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/181_SELF JOIN_earning-more-than-managers.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -31,18 +31,27 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="221">
-                <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+                <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SQL/175_combine-two-tables.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SQL/181_SELF JOIN_earning-more-than-managers.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -109,6 +118,7 @@
         <option value="$PROJECT_DIR$/SQL/627_swap-salary.sql" />
         <option value="$PROJECT_DIR$/SQL/175_combine-two-tables.sql" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/SQL/181_SELF JOIN_earning-more-than-managers.sql" />
       </list>
     </option>
   </component>
@@ -572,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566446296867</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="执行用时 :337 ms, 在所有 MySQL 提交中击败了97.97%的用户">
+      <created>1566458843387</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1566458843387</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -601,7 +618,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string 1051 update readme" />
     <MESSAGE value="stack 1021" />
     <MESSAGE value="stack 682" />
     <MESSAGE value="执行用时 : 88 ms, 在Baseball Game的Python3提交中击败了11.80% 的用户&#10;内存消耗 : 13.1 MB, 在Baseball Game的Python3提交中击败了74.63% 的用户" />
@@ -626,7 +642,8 @@
     <MESSAGE value="sql mod(id, 2) != 0" />
     <MESSAGE value="执行用时 :201 ms, 在所有 MySQL 提交中击败了94.41%的用户" />
     <MESSAGE value="执行用时 :643 ms, 在所有 MySQL 提交中击败了5.64%的用户" />
-    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :643 ms, 在所有 MySQL 提交中击败了5.64%的用户" />
+    <MESSAGE value="执行用时 :337 ms, 在所有 MySQL 提交中击败了97.97%的用户" />
+    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :337 ms, 在所有 MySQL 提交中击败了97.97%的用户" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -793,20 +810,27 @@
     <entry file="file://$PROJECT_DIR$/SQL/175_combine-two-tables">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/SQL/175_combine-two-tables.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="221">
-            <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/175_combine-two-tables.sql">
+    <entry file="file://$PROJECT_DIR$/SQL/181_SELF JOIN_earning-more-than-managers.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
