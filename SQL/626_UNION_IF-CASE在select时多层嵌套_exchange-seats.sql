@@ -27,7 +27,6 @@ FROM seat ORDER BY id;
 
 
 # top2 这个好理解
-
 SELECT CASE
 		WHEN s.id % 2 = 1 AND s.id = (SELECT max(s2.id) FROM seat s2) then s.id
 		when s.id % 2 = 1 then s.id+1
@@ -35,3 +34,18 @@ SELECT CASE
 		END as id, student
 from seat s
 ORDER BY id
+
+
+# top 3
+select s1.id, s2.student
+from seat s1, seat s2
+where s1.id%2=1 and s2.id=s1.id+1
+union
+select s2.id, s1.student
+from seat s1, seat s2
+where s1.id%2=1 and s2.id=s1.id+1
+union
+select s1.id, s1.student
+from seat s1
+where s1.id%2=1 and s1.id = (select max(id) from seat)
+order by id
