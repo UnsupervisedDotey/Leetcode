@@ -8,11 +8,12 @@
  
 ### 当前进度
 
-|     BABE      | PROGRESS                                  |
+|  Fangling Liu | PROGRESS                                  |
 | :-----------: | ----------------------------------------- |
-|   Yiran Han   |  3/775 Solved - Easy  3 Medium 0  Hard 0  |
-| Fangling Liu  | 75/775 Solved - Easy 57 Medium 17 Hard 1  |
-
+|   Algorithm   |  已解决 59/1091  -  简单 45 中等 14 困难 0  |
+|      SQL      |  已解决 13/59    -  简单 9  中等 3  困难 1  |
+|     shell     |  已解决 0/4      -  简单 0  中等 0  困难 0  |
+|  multi-thread |  已解决 1/4      -  简单 1  中等 0  困难 0  |
 
 # ===========================
 
