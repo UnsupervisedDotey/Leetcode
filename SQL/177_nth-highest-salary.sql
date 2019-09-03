@@ -11,6 +11,5 @@ BEGIN
              ORDER BY Salary DESC) t1,
             (SELECT @i:=0) ii) t2
         WHERE t2.orders = N
-
   );
 END
