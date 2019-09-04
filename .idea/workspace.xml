@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/SQL/177_nth-highest-salary.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/177_nth-highest-salary.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/185_department-top-three-salaries.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +20,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="221">
-                <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+              <first_editor relative-caret-position="272">
+                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SQL/185_department-top-three-salaries.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -31,14 +41,18 @@
         <entry file="file://$PROJECT_DIR$/SQL/177_nth-highest-salary.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SQL/184_department-highest-salary.sql">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -112,8 +126,10 @@
         <option value="$PROJECT_DIR$/SQL/197_DATEDIFF_rising-temperature.sql" />
         <option value="$PROJECT_DIR$/SQL/262_trips-and-users.sql" />
         <option value="$PROJECT_DIR$/Multi-thread/1114_print-in-order.sql.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/SQL/177_nth-highest-salary.sql" />
+        <option value="$PROJECT_DIR$/SQL/184_department-highest-salary.sql" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/SQL/185_department-top-three-salaries.sql" />
       </list>
     </option>
   </component>
@@ -129,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,6 +166,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -303,13 +319,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559032908827</updated>
-    </task>
-    <task id="LOCAL-00009" summary="执行用时 : 88 ms, 在Baseball Game的Python3提交中击败了11.80% 的用户&#10;内存消耗 : 13.1 MB, 在Baseball Game的Python3提交中击败了74.63% 的用户">
-      <created>1559720119213</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1559720119213</updated>
     </task>
     <task id="LOCAL-00010" summary="执行用时 : 88 ms, 在Baseball Game的Python3提交中击败了11.80% 的用户&#10;内存消耗 : 13.1 MB, 在Baseball Game的Python3提交中击败了74.63% 的用户">
       <created>1559720332318</created>
@@ -647,7 +656,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567410835384</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="执行用时 :1014 ms, 在所有 MySQL 提交中击败了21.67%的用户">
+      <created>1567473120222</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1567473120222</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -676,7 +692,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="746抄的，不会做" />
     <MESSAGE value="动态规划lfl人生初次总结。&#10;746抄的，不会做" />
     <MESSAGE value="UPDATE # FINISHED" />
     <MESSAGE value="执行用时 :816 ms, 在所有 Python3 交中击败了40.29%的用户&#10;内存消耗 :17.4 MB, 在所有 Python3 提交中击败了5.54%的用户" />
@@ -701,7 +716,8 @@
     <MESSAGE value="执行用时 :475 ms, 在所有 MySQL 提交中击败了45.93%的用户" />
     <MESSAGE value="执行用时 :116 ms, 在所有 Python3 提交中击败了42.20%的用户&#10;内存消耗 :16.1 MB, 在所有 Python3 提交中击败了100.00%的用户" />
     <MESSAGE value="执行用时 :343 ms, 在所有 MySQL 提交中击败了72.47%的用户" />
-    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :343 ms, 在所有 MySQL 提交中击败了72.47%的用户" />
+    <MESSAGE value="执行用时 :1014 ms, 在所有 MySQL 提交中击败了21.67%的用户" />
+    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :1014 ms, 在所有 MySQL 提交中击败了21.67%的用户" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -921,6 +937,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="272">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL/177_nth-highest-salary.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL/184_department-highest-salary.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Multi-thread/1114_print-in-order.sql.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
@@ -935,25 +975,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="221">
-            <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/177_nth-highest-salary.sql">
+    <entry file="file://$PROJECT_DIR$/SQL/185_department-top-three-salaries.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/184_department-highest-salary.sql">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
