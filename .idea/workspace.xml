@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.py" afterDir="false" />
+    <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="执行用时 :132 ms, 在所有 Python3 提交中击败了8.37%的用户&#10;内存消耗 :13.9 MB, 在所有 Python3 提交中击败了100.00%的用户">
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/392_is-subsequence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="190">
+                <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.py">
+        <entry file="file://$PROJECT_DIR$/Dynamic Programming/392_is-subsequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="174">
+              <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -84,9 +97,10 @@
         <option value="$PROJECT_DIR$/SQL/596_classes-more-than-5-students.sql.py" />
         <option value="$PROJECT_DIR$/SQL/596_classes-more-than-5-students.sql" />
         <option value="$PROJECT_DIR$/SQL/176_second-highest-salary.sql" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.sql.py" />
         <option value="$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/392_is-subsequence.py" />
       </list>
     </option>
   </component>
@@ -145,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1025_divisor-game">
+  <component name="RunManager" selected="Python.392_is-subsequence">
     <configuration name="1025_divisor-game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,7 +202,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="338_countBits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="392_is-subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +214,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/338_countBits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/392_is-subsequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,11 +267,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.392_is-subsequence" />
         <item itemvalue="Python.1025_divisor-game" />
         <item itemvalue="Python.1114_print-in-order.sql" />
         <item itemvalue="Python.LM_BA" />
         <item itemvalue="Python.877_stoneGame" />
-        <item itemvalue="Python.338_countBits" />
       </list>
     </recent_temporary>
   </component>
@@ -271,13 +285,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559032908827</updated>
-    </task>
-    <task id="LOCAL-00014" summary="执行用时 :116 ms, 在所有 Python3 提交中击败了7.34%的用户&#10;内存消耗 :13.4 MB, 在所有 Python3提交中击败了96.67%的用户">
-      <created>1561024139173</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1561024139173</updated>
     </task>
     <task id="LOCAL-00015" summary="执行用时 :116 ms, 在所有 Python3 提交中击败了7.34%的用户&#10;内存消耗 :13.4 MB, 在所有 Python3提交中击败了96.67%的用户">
       <created>1561080205917</created>
@@ -615,27 +622,34 @@
       <option name="project" value="LOCAL" />
       <updated>1567671659758</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="执行用时 :132 ms, 在所有 Python3 提交中击败了8.37%的用户&#10;内存消耗 :13.9 MB, 在所有 Python3 提交中击败了100.00%的用户">
+      <created>1567737430916</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1567737430916</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.24524313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.24524313" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
       <window_info id="Favorites" order="2" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
       <window_info id="DB Browser" order="3" weight="0.32980973" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49612403" visible="true" weight="0.426506" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49541932" visible="true" weight="0.426506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49868214" weight="0.3267974" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32771084" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.503876" side_tool="true" weight="0.2313253" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5045807" side_tool="true" weight="0.426506" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49960285" weight="0.21204819" />
       <window_info anchor="bottom" id="DB Execution Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -644,7 +658,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="反思303" />
     <MESSAGE value="sumRange会重复加载" />
     <MESSAGE value="执行用时 :40 ms, 在所有 Python3 提交中击败了95.92%的用户&#10;内存消耗 :13.9 MB, 在所有 Python3 提交中击败了5.14%的用户" />
     <MESSAGE value="动态规划all easy done" />
@@ -669,7 +682,8 @@
     <MESSAGE value="执行用时 :1404 ms, 在所有 MySQL 提交中击败了37.59%的用户" />
     <MESSAGE value="执行用时 :300 ms, 在所有 MySQL 提交中击败了78.62%的用户" />
     <MESSAGE value="执行用时 :279 ms, 在所有 MySQL 提交中击败了39.11%的用户" />
-    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :279 ms, 在所有 MySQL 提交中击败了39.11%的用户" />
+    <MESSAGE value="执行用时 :132 ms, 在所有 Python3 提交中击败了8.37%的用户&#10;内存消耗 :13.9 MB, 在所有 Python3 提交中击败了100.00%的用户" />
+    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :132 ms, 在所有 Python3 提交中击败了8.37%的用户&#10;内存消耗 :13.9 MB, 在所有 Python3 提交中击败了100.00%的用户" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -683,13 +697,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Stack/1021_removeOuterParentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Stack/682_calPoints.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -927,16 +934,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="221">
-            <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.sql.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -946,8 +943,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="320">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="190">
+            <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/392_is-subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
