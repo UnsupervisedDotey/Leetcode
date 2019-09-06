@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="" />
+    <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,30 +16,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="663">
-                <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SQL/596_classes-more-than-5-students.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SQL/176_second-highest-salary.sql">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="17" selection-end-column="20" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -95,9 +81,12 @@
         <option value="$PROJECT_DIR$/SQL/177_nth-highest-salary.sql" />
         <option value="$PROJECT_DIR$/SQL/184_department-highest-salary.sql" />
         <option value="$PROJECT_DIR$/SQL/185_department-top-three-salaries.sql" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/SQL/596_classes-more-than-5-students.sql.py" />
         <option value="$PROJECT_DIR$/SQL/596_classes-more-than-5-students.sql" />
+        <option value="$PROJECT_DIR$/SQL/176_second-highest-salary.sql" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.sql.py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.py" />
       </list>
     </option>
   </component>
@@ -123,7 +112,7 @@
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SQL" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic Programming" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -156,7 +145,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1114_print-in-order.sql">
+  <component name="RunManager" selected="Python.1025_divisor-game">
+    <configuration name="1025_divisor-game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1114_print-in-order.sql" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,27 +180,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multi-thread/1114_print-in-order.sql.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="198_rob" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/198_rob.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1025_divisor-game" />
         <item itemvalue="Python.1114_print-in-order.sql" />
         <item itemvalue="Python.LM_BA" />
         <item itemvalue="Python.877_stoneGame" />
         <item itemvalue="Python.338_countBits" />
-        <item itemvalue="Python.198_rob" />
       </list>
     </recent_temporary>
   </component>
@@ -282,13 +271,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559032908827</updated>
-    </task>
-    <task id="LOCAL-00013" summary="执行用时 :76 ms, 在所有 Python3 提交中击败了34.76%的用户&#10;内存消耗 :14 MB, 在所有 Python3 提交中击败了37.73%的用户">
-      <created>1561020343831</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1561020343831</updated>
     </task>
     <task id="LOCAL-00014" summary="执行用时 :116 ms, 在所有 Python3 提交中击败了7.34%的用户&#10;内存消耗 :13.4 MB, 在所有 Python3提交中击败了96.67%的用户">
       <created>1561024139173</created>
@@ -626,7 +608,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567670588879</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="执行用时 :279 ms, 在所有 MySQL 提交中击败了39.11%的用户">
+      <created>1567671659758</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1567671659758</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -639,7 +628,7 @@
       <window_info id="DB Browser" order="3" weight="0.32980973" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49612403" weight="0.2313253" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49612403" visible="true" weight="0.426506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -655,7 +644,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="执行用时 :816 ms, 在所有 Python3 交中击败了40.29%的用户&#10;内存消耗 :17.4 MB, 在所有 Python3 提交中击败了5.54%的用户" />
     <MESSAGE value="反思303" />
     <MESSAGE value="sumRange会重复加载" />
     <MESSAGE value="执行用时 :40 ms, 在所有 Python3 提交中击败了95.92%的用户&#10;内存消耗 :13.9 MB, 在所有 Python3 提交中击败了5.14%的用户" />
@@ -680,7 +668,8 @@
     <MESSAGE value="执行用时 :1014 ms, 在所有 MySQL 提交中击败了21.67%的用户" />
     <MESSAGE value="执行用时 :1404 ms, 在所有 MySQL 提交中击败了37.59%的用户" />
     <MESSAGE value="执行用时 :300 ms, 在所有 MySQL 提交中击败了78.62%的用户" />
-    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :300 ms, 在所有 MySQL 提交中击败了78.62%的用户" />
+    <MESSAGE value="执行用时 :279 ms, 在所有 MySQL 提交中击败了39.11%的用户" />
+    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :279 ms, 在所有 MySQL 提交中击败了39.11%的用户" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -694,20 +683,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Math/231_PowerOfTwo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/1051_heightChecker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Stack/1021_removeOuterParentheses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
@@ -935,16 +910,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="663">
-            <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SQL/596_classes-more-than-5-students.sql.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -956,7 +921,35 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SQL/176_second-highest-salary.sql">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="221">
+            <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
