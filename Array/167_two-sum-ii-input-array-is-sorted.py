@@ -21,8 +21,7 @@ class Solution:
         :param target:
         :return:
 
-        无心工作
-        心烦
+        二分法
 
         """
         left = 0
