@@ -26,6 +26,6 @@ class Solution:
 
 if __name__ == "__main__":
     sol = Solution()
-    nums = [-1,-100,3,99]
+    nums = [-1, -100, 3, 99]
     k = 2
     print(sol.rotate(nums=nums, k=k))
