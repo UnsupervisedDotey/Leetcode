@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/167_two-sum-ii-input-array-is-sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/189_rotate-array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="472">
-                <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <first_editor relative-caret-position="342">
+                <caret line="36" lean-forward="true" selection-start-line="35" selection-end-line="36" />
               </first_editor>
               <second_editor />
             </state>
@@ -29,10 +29,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Array/167_two-sum-ii-input-array-is-sorted.py">
+        <entry file="file://$PROJECT_DIR$/Array/189_rotate-array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="27" selection-start-line="27" selection-end-line="40" selection-end-column="26" />
+            <state relative-caret-position="374">
+              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -104,6 +104,7 @@
         <option value="$PROJECT_DIR$/Array/119_pascals-triangle-ii.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Array/167_two-sum-ii-input-array-is-sorted.py" />
+        <option value="$PROJECT_DIR$/Array/189_rotate-array.py" />
       </list>
     </option>
   </component>
@@ -162,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.167_two-sum-ii-input-array-is-sorted">
+  <component name="RunManager" selected="Python.189_rotate-array">
     <configuration name="119_pascals-triangle-ii" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,6 +206,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="189_rotate-array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/189_rotate-array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="35_search-insert-position.sql" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,27 +240,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/35_search-insert-position.sql.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="392_is-subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/392_is-subsequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.189_rotate-array" />
         <item itemvalue="Python.167_two-sum-ii-input-array-is-sorted" />
         <item itemvalue="Python.119_pascals-triangle-ii" />
         <item itemvalue="Python.66_plus-one.sql" />
         <item itemvalue="Python.35_search-insert-position.sql" />
-        <item itemvalue="Python.392_is-subsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -288,20 +289,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559032908827</updated>
-    </task>
-    <task id="LOCAL-00019" summary="crying">
-      <created>1563958570232</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1563958570232</updated>
-    </task>
-    <task id="LOCAL-00020" summary="746抄的，不会做">
-      <created>1563961024839</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1563961024839</updated>
     </task>
     <task id="LOCAL-00021" summary="动态规划lfl人生初次总结。&#10;746抄的，不会做">
       <created>1563961437023</created>
@@ -632,7 +619,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568082744894</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="执行用时 :108 ms, 在所有 Python3 提交中击败了28.06%的用户&#10;内存消耗 :14.3 MB, 在所有 Python3 提交中击败了5.22%的用户">
+      <created>1568099639393</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1568099639393</updated>
+    </task>
+    <task id="LOCAL-00069" summary="二分法 双指针">
+      <created>1568099670231</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1568099670231</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -661,8 +662,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="没做出来" />
-    <MESSAGE value="sql groupby having" />
     <MESSAGE value="sql where or" />
     <MESSAGE value="sql mod(id, 2) != 0" />
     <MESSAGE value="执行用时 :201 ms, 在所有 MySQL 提交中击败了94.41%的用户" />
@@ -686,7 +685,9 @@
     <MESSAGE value="执行用时 :76 ms, 在所有 Python3 提交中击败了57.14%的用户&#10;内存消耗 :14.1 MB, 在所有 Python3 提交中击败了5.47%的用户" />
     <MESSAGE value="执行用时 :96 ms, 在所有 Python3 提交中击败了7.30%的用户&#10;内存消耗 :13.6 MB, 在所有 Python3 提交中击败了5.64%的用户" />
     <MESSAGE value="执行用时 :92 ms, 在所有 Python3 提交中击败了8.14%的用户&#10;内存消耗 :13.8 MB, 在所有 Python3 提交中击败了5.56%的用户" />
-    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :92 ms, 在所有 Python3 提交中击败了8.14%的用户&#10;内存消耗 :13.8 MB, 在所有 Python3 提交中击败了5.56%的用户" />
+    <MESSAGE value="执行用时 :108 ms, 在所有 Python3 提交中击败了28.06%的用户&#10;内存消耗 :14.3 MB, 在所有 Python3 提交中击败了5.22%的用户" />
+    <MESSAGE value="二分法 双指针" />
+    <option name="LAST_COMMIT_MESSAGE" value="二分法 双指针" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -700,7 +701,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/bestTimeToBuyAndSellStock.py" />
     <entry file="file://$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -957,20 +957,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Array/167_two-sum-ii-input-array-is-sorted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="472">
-            <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <first_editor relative-caret-position="342">
+            <caret line="36" lean-forward="true" selection-start-line="35" selection-end-line="36" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Array/167_two-sum-ii-input-array-is-sorted.py">
+    <entry file="file://$PROJECT_DIR$/Array/189_rotate-array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" selection-start-line="27" selection-end-line="40" selection-end-column="26" />
+        <state relative-caret-position="374">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
         </state>
       </provider>
     </entry>
