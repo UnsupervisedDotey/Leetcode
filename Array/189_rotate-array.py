@@ -2,6 +2,14 @@ class Solution:
     def rotate(self, nums, k) -> None:
         """
         Do not return anything, modify nums in-place instead.
+
+        替换list里面的原位置数据，用nums[:]
+
+        卧槽我是sb吧，你看人家这个多简单
+
+        k = k % len(nums)
+        nums[:]= nums[len(nums)-k:] + nums[0:len(nums)-k]
+
         """
 
         k = k % len(nums)
