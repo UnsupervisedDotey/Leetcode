@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/189_rotate-array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/268_missing-number.sql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,22 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="204">
-                <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/189_rotate-array.py">
+        <entry file="file://$PROJECT_DIR$/Math/268_missing-number.sql.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state>
+              <caret selection-end-line="14" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -106,6 +93,7 @@
         <option value="$PROJECT_DIR$/Array/167_two-sum-ii-input-array-is-sorted.py" />
         <option value="$PROJECT_DIR$/Array/189_rotate-array.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Math/268_missing-number.sql.py" />
       </list>
     </option>
   </component>
@@ -131,7 +119,7 @@
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="Math" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.189_rotate-array">
+  <component name="RunManager" selected="Python.268_missing-number.sql">
     <configuration name="119_pascals-triangle-ii" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="35_search-insert-position.sql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="268_missing-number.sql" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/35_search-insert-position.sql.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/268_missing-number.sql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.268_missing-number.sql" />
         <item itemvalue="Python.189_rotate-array" />
         <item itemvalue="Python.167_two-sum-ii-input-array-is-sorted" />
         <item itemvalue="Python.119_pascals-triangle-ii" />
         <item itemvalue="Python.66_plus-one.sql" />
-        <item itemvalue="Python.35_search-insert-position.sql" />
       </list>
     </recent_temporary>
   </component>
@@ -290,20 +278,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559032908827</updated>
-    </task>
-    <task id="LOCAL-00022" summary="UPDATE # FINISHED">
-      <created>1564014236263</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1564014236263</updated>
-    </task>
-    <task id="LOCAL-00023" summary="执行用时 :816 ms, 在所有 Python3 交中击败了40.29%的用户&#10;内存消耗 :17.4 MB, 在所有 Python3 提交中击败了5.54%的用户">
-      <created>1564015878349</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1564015878349</updated>
     </task>
     <task id="LOCAL-00024" summary="反思303">
       <created>1564016236512</created>
@@ -634,27 +608,41 @@
       <option name="project" value="LOCAL" />
       <updated>1568165221161</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="nums[:]">
+      <created>1568165369506</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1568165369506</updated>
+    </task>
+    <task id="LOCAL-00072" summary="nums[:]&#10;&#10;[i if i!=0 else &quot;hi&quot; for i in range(3)]">
+      <created>1568165540293</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1568165540293</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.24524313" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.2114165" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
       <window_info id="Favorites" order="2" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
       <window_info id="DB Browser" order="3" weight="0.32980973" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49541932" visible="true" weight="0.2819277" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49541932" visible="true" weight="0.2819277" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49868214" weight="0.3267974" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49868214" weight="0.32650602" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32771084" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5045807" side_tool="true" weight="0.30361447" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5045807" side_tool="true" weight="0.2819277" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49960285" weight="0.21204819" />
       <window_info anchor="bottom" id="DB Execution Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -663,8 +651,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sql mod(id, 2) != 0" />
-    <MESSAGE value="执行用时 :201 ms, 在所有 MySQL 提交中击败了94.41%的用户" />
     <MESSAGE value="执行用时 :643 ms, 在所有 MySQL 提交中击败了5.64%的用户" />
     <MESSAGE value="执行用时 :337 ms, 在所有 MySQL 提交中击败了97.97%的用户" />
     <MESSAGE value="执行用时 :563 ms, 在所有 MySQL 提交中击败了58.52%的用户" />
@@ -688,7 +674,9 @@
     <MESSAGE value="执行用时 :108 ms, 在所有 Python3 提交中击败了28.06%的用户&#10;内存消耗 :14.3 MB, 在所有 Python3 提交中击败了5.22%的用户" />
     <MESSAGE value="二分法 双指针" />
     <MESSAGE value="执行用时 :88 ms, 在所有 Python3 提交中击败了74.10%的用户&#10;内存消耗 :15 MB, 在所有 Python3 提交中击败了5.18%的用户" />
-    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :88 ms, 在所有 Python3 提交中击败了74.10%的用户&#10;内存消耗 :15 MB, 在所有 Python3 提交中击败了5.18%的用户" />
+    <MESSAGE value="nums[:]" />
+    <MESSAGE value="nums[:]&#10;&#10;[i if i!=0 else &quot;hi&quot; for i in range(3)]" />
+    <option name="LAST_COMMIT_MESSAGE" value="nums[:]&#10;&#10;[i if i!=0 else &quot;hi&quot; for i in range(3)]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -702,13 +690,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dynamic Programming/746.py" />
     <entry file="file://$PROJECT_DIR$/Dynamic Programming/70_climbStairs.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -967,8 +948,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/189_rotate-array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
@@ -979,6 +960,13 @@
             <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/268_missing-number.sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
