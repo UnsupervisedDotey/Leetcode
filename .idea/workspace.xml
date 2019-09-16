@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Math/268_missing-number.sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/283_move-zeroes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/26_RemoveDuplicatesFromSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/26_RemoveDuplicatesFromSortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,12 +17,33 @@
     <favorites_list name="Leetcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Math/268_missing-number.sql.py">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Array/26_RemoveDuplicatesFromSortedArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Array/283_move-zeroes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="14" selection-end-column="26" />
+              <caret selection-end-line="5" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="204">
+                <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -92,8 +115,10 @@
         <option value="$PROJECT_DIR$/Array/119_pascals-triangle-ii.py" />
         <option value="$PROJECT_DIR$/Array/167_two-sum-ii-input-array-is-sorted.py" />
         <option value="$PROJECT_DIR$/Array/189_rotate-array.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Math/268_missing-number.sql.py" />
+        <option value="$PROJECT_DIR$/Array/26_RemoveDuplicatesFromSortedArray.py" />
+        <option value="$PROJECT_DIR$/Array/283_move-zeroes.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -109,6 +134,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,20 +145,19 @@
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Math" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -152,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.268_missing-number.sql">
+  <component name="RunManager" selected="Python.283_move-zeroes">
     <configuration name="119_pascals-triangle-ii" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="66_plus-one.sql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="283_move-zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,7 +274,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/66_plus-one.sql.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/283_move-zeroes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.283_move-zeroes" />
         <item itemvalue="Python.268_missing-number.sql" />
         <item itemvalue="Python.189_rotate-array" />
         <item itemvalue="Python.167_two-sum-ii-input-array-is-sorted" />
         <item itemvalue="Python.119_pascals-triangle-ii" />
-        <item itemvalue="Python.66_plus-one.sql" />
       </list>
     </recent_temporary>
   </component>
@@ -278,13 +303,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559032908827</updated>
-    </task>
-    <task id="LOCAL-00024" summary="反思303">
-      <created>1564016236512</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1564016236512</updated>
     </task>
     <task id="LOCAL-00025" summary="sumRange会重复加载">
       <created>1564016574587</created>
@@ -622,28 +640,44 @@
       <option name="project" value="LOCAL" />
       <updated>1568165540293</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="执行用时 :268 ms, 在所有 Python3 提交中击败了20.61%的用户&#10;内存消耗 :15 MB, 在所有 Python3 提交中击败了5.36%的用户">
+      <created>1568279355760</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1568279355760</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.2114165" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.30866808" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
       <window_info id="Favorites" order="2" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
       <window_info id="DB Browser" order="3" weight="0.32980973" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49541932" visible="true" weight="0.2819277" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49541932" visible="true" weight="0.2253012" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49868214" weight="0.32650602" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32771084" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5045807" side_tool="true" weight="0.2819277" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49960285" weight="0.21204819" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49960285" weight="0.42409638" />
       <window_info anchor="bottom" id="DB Execution Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -651,7 +685,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="执行用时 :643 ms, 在所有 MySQL 提交中击败了5.64%的用户" />
     <MESSAGE value="执行用时 :337 ms, 在所有 MySQL 提交中击败了97.97%的用户" />
     <MESSAGE value="执行用时 :563 ms, 在所有 MySQL 提交中击败了58.52%的用户" />
     <MESSAGE value="执行用时 :284 ms, 在所有 MySQL 提交中击败了84.48%的用户" />
@@ -676,7 +709,8 @@
     <MESSAGE value="执行用时 :88 ms, 在所有 Python3 提交中击败了74.10%的用户&#10;内存消耗 :15 MB, 在所有 Python3 提交中击败了5.18%的用户" />
     <MESSAGE value="nums[:]" />
     <MESSAGE value="nums[:]&#10;&#10;[i if i!=0 else &quot;hi&quot; for i in range(3)]" />
-    <option name="LAST_COMMIT_MESSAGE" value="nums[:]&#10;&#10;[i if i!=0 else &quot;hi&quot; for i in range(3)]" />
+    <MESSAGE value="执行用时 :268 ms, 在所有 Python3 提交中击败了20.61%的用户&#10;内存消耗 :15 MB, 在所有 Python3 提交中击败了5.36%的用户" />
+    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :268 ms, 在所有 Python3 提交中击败了20.61%的用户&#10;内存消耗 :15 MB, 在所有 Python3 提交中击败了5.36%的用户" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -690,21 +724,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/746.py" />
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/70_climbStairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/121_maxProfit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/huangweiyi/huangweiyi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -880,9 +899,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/596_classes-more-than-5-students.sql.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL/596_classes-more-than-5-students.sql.py" />
     <entry file="file://$PROJECT_DIR$/SQL/596_classes-more-than-5-students.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -897,13 +914,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.sql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.sql.py" />
     <entry file="file://$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -918,20 +929,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Array/35_search-insert-position.sql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/66_plus-one.sql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/35_search-insert-position.sql.py" />
+    <entry file="file://$PROJECT_DIR$/Array/66_plus-one.sql.py" />
     <entry file="file://$PROJECT_DIR$/Array/119_pascals-triangle-ii.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -953,20 +952,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Math/268_missing-number.sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/62_uniquePaths.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/26_RemoveDuplicatesFromSortedArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/283_move-zeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="204">
-            <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Math/268_missing-number.sql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
