@@ -5,7 +5,7 @@ class Solution:
 
         :param nums:
         :return:
-        """
+
         nums = list(set(nums))
         nums.sort(reverse=True)
 
@@ -13,6 +13,13 @@ class Solution:
             return nums[2]
         else:
             return max(nums)
+        """
+
+        l = set(nums)
+        for _ in range((2, 0)[len(l) < 3]):
+            l.remove(max(l))
+
+        return max(l)
 
 
 if __name__ == "__main__":
