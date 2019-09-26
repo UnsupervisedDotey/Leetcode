@@ -1,5 +1,5 @@
 class Solution:
-    def matrixReshape(self, nums, r: int, c: int):
+    def matrixReshape(self, nums, r, c):
         """
         function description
 
