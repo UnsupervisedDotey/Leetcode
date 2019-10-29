@@ -1,4 +1,8 @@
 # Leetcode
+ 买了一个月的leetcode会员过期了，我还是老老实实把公开的免费题做完吧
+ 
+ SQL记得做，动态规划记得做
+
 
  每次做动态规划的题，我都觉得自己是个智障。
  ![avatar](https://github.com/UnsupervisedDotey/Leetcode/raw/master/image/cry.jpg)
