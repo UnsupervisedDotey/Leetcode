@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="" />
+    <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/二叉树/965 _ 单值二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/965 _ 单值二叉树.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,19 +16,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Leetcode" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Array/532_k-diff-pairs-in-an-array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,99 +32,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Dynamic Programming/70_climbStairs.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/121_maxProfit.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/746.py" />
-        <option value="$PROJECT_DIR$/huangweiyi/huangweiyi.py" />
-        <option value="$PROJECT_DIR$/huangweiyi/huangweiyi2.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/746_minCostClimbingStairs.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/numArraySumRange.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/303_numArraySumRange.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/198_rob.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/338_countBits.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/_338_countBits_.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/877_stoneGame.py" />
-        <option value="E:/CETC-BDRI-2019/数据工程资源组/刘芳菱新任务1：数据分析解决业务问题/LM_BA.py" />
-        <option value="$PROJECT_DIR$/SQL/595 大的国家 WHERE OR.sql" />
-        <option value="$PROJECT_DIR$/SQL/620_not-boring-movies.sql" />
-        <option value="$PROJECT_DIR$/SQL/627_swap-salary.sql" />
-        <option value="$PROJECT_DIR$/SQL/175_combine-two-tables.sql" />
-        <option value="$PROJECT_DIR$/SQL/181_SELF JOIN_earning-more-than-managers.sql" />
-        <option value="$PROJECT_DIR$/SQL/626_UNION_exchange-seats.sql" />
-        <option value="$PROJECT_DIR$/SQL/626_UNION_IF-CASE在select时多层嵌套_exchange-seats.sql" />
-        <option value="$PROJECT_DIR$/SQL/183_not in 子查询_customers-who-never-order.sql.py" />
-        <option value="$PROJECT_DIR$/SQL/183_not in 子查询_customers-who-never-order.sql" />
-        <option value="$PROJECT_DIR$/SQL/178_设置变量+CONVERT_rank-scores.sql" />
-        <option value="$PROJECT_DIR$/SQL/196_IN-SELECT MIN-GROUP BY_delete-duplicate-emails.sql" />
-        <option value="$PROJECT_DIR$/SQL/197_DATEDIFF_rising-temperature.sql" />
-        <option value="$PROJECT_DIR$/SQL/262_trips-and-users.sql" />
-        <option value="$PROJECT_DIR$/Multi-thread/1114_print-in-order.sql.py" />
-        <option value="$PROJECT_DIR$/SQL/177_nth-highest-salary.sql" />
-        <option value="$PROJECT_DIR$/SQL/184_department-highest-salary.sql" />
-        <option value="$PROJECT_DIR$/SQL/185_department-top-three-salaries.sql" />
-        <option value="$PROJECT_DIR$/SQL/596_classes-more-than-5-students.sql.py" />
-        <option value="$PROJECT_DIR$/SQL/596_classes-more-than-5-students.sql" />
-        <option value="$PROJECT_DIR$/SQL/176_second-highest-salary.sql" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.sql.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.py" />
-        <option value="$PROJECT_DIR$/Dynamic Programming/392_is-subsequence.py" />
-        <option value="$PROJECT_DIR$/Array/35_search-insert-position.sql.py" />
-        <option value="$PROJECT_DIR$/Array/66_plus-one.sql.py" />
-        <option value="$PROJECT_DIR$/Array/119_pascals-triangle-ii.py" />
-        <option value="$PROJECT_DIR$/Array/167_two-sum-ii-input-array-is-sorted.py" />
-        <option value="$PROJECT_DIR$/Array/189_rotate-array.py" />
-        <option value="$PROJECT_DIR$/Math/268_missing-number.sql.py" />
-        <option value="$PROJECT_DIR$/Array/26_RemoveDuplicatesFromSortedArray.py" />
-        <option value="$PROJECT_DIR$/Array/283_move-zeroes.py" />
-        <option value="$PROJECT_DIR$/Array/219_contains-duplicate-ii.py" />
-        <option value="$PROJECT_DIR$/Array/414_third-maximum-number.py" />
-        <option value="$PROJECT_DIR$/Array/448_find-all-numbers-disappeared-in-an-array.py" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/Array/485_max-consecutive-ones.py" />
-        <option value="$PROJECT_DIR$/Array/532_k-diff-pairs-in-an-array.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
+  <component name="ProjectId" id="1T9Q70ME9ob0Nls3fn42DAMSxrN" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -151,28 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.532_k-diff-pairs-in-an-array">
-    <configuration name="219_contains-duplicate-ii" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/219_contains-duplicate-ii.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.965 _ 单值二叉树">
     <configuration name="414_third-maximum-number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,13 +145,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="965 _ 单值二叉树" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/二叉树" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二叉树/965 _ 单值二叉树.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.965 _ 单值二叉树" />
         <item itemvalue="Python.532_k-diff-pairs-in-an-array" />
         <item itemvalue="Python.485_max-consecutive-ones" />
         <item itemvalue="Python.448_find-all-numbers-disappeared-in-an-array" />
         <item itemvalue="Python.414_third-maximum-number" />
-        <item itemvalue="Python.219_contains-duplicate-ii" />
       </list>
     </recent_temporary>
   </component>
@@ -633,30 +542,18 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.25229034" />
-      <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
-      <window_info id="Favorites" order="2" sideWeight="0.50120485" side_tool="true" weight="0.23608175" />
-      <window_info id="DB Browser" order="3" weight="0.32980973" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4947146" visible="true" weight="0.2253012" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49868214" weight="0.32650602" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32771084" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50528544" side_tool="true" weight="0.2253012" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49960285" weight="0.42409638" />
-      <window_info anchor="bottom" id="DB Execution Console" order="11" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="执行用时 :889 ms, 在所有 MySQL 提交中击败了94.24%的用户" />
@@ -696,284 +593,5 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/_338_countBits_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/198_rob.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/241980198/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/huangweiyi/huangweiyi2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2808">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/CETC-BDRI-2019/数据工程资源组/刘芳菱新任务1：数据分析解决业务问题/LM_BA.py" />
-    <entry file="file://$PROJECT_DIR$/SQL/182 查找重复电子邮箱 GROUP BY 1 HAVING COUNT(1)&gt;1.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/877_stoneGame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/627_swap-salary.sql" />
-    <entry file="file://$PROJECT_DIR$/SQL/627_swap-salary UPDATE t1 SET 1 = CASE WHEN THEN ELSE END.sql" />
-    <entry file="file://$PROJECT_DIR$/SQL/175_combine-two-tables" />
-    <entry file="file://$PROJECT_DIR$/SQL/626_UNION_exchange-seats.sql" />
-    <entry file="file://$PROJECT_DIR$/SQL/183_not in 子查询_customers-who-never-order.sql.py" />
-    <entry file="file://$PROJECT_DIR$/SQL/178_设置变量+CONVERT_rank-scores" />
-    <entry file="file://$PROJECT_DIR$/SQL/183_not in 子查询_customers-who-never-order.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/626_UNION_IF-CASE在select时多层嵌套_exchange-seats.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/595 大的国家 WHERE OR.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/175_combine-two-tables.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/181_SELF JOIN_earning-more-than-managers.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/620_not-boring-movies.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/196_IN-SELECT MIN-GROUP BY_delete-duplicate-emails.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/178_设置变量+CONVERT_rank-scores.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/180_consecutive-numbers.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/197_DATEDIFF_rising-temperature.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="65" lean-forward="true" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80" />
-      </provider>
-    </entry>
-    <entry file="file:///anaconda3/lib/python3.7/threading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="263" column="8" selection-start-line="263" selection-start-column="8" selection-end-line="263" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/185_department-top-three-salaries.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/177_nth-highest-salary.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/184_department-highest-salary.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Multi-thread/1114_print-in-order.sql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/262_trips-and-users.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/596_classes-more-than-5-students.sql.py" />
-    <entry file="file://$PROJECT_DIR$/SQL/596_classes-more-than-5-students.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SQL/176_second-highest-salary.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.sql.py" />
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/392_is-subsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/35_search-insert-position.sql.py" />
-    <entry file="file://$PROJECT_DIR$/Array/66_plus-one.sql.py" />
-    <entry file="file://$PROJECT_DIR$/Array/119_pascals-triangle-ii.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/167_two-sum-ii-input-array-is-sorted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/189_rotate-array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Math/268_missing-number.sql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dynamic Programming/62_uniquePaths.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/26_RemoveDuplicatesFromSortedArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/283_move-zeroes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/219_contains-duplicate-ii.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/414_third-maximum-number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/448_find-all-numbers-disappeared-in-an-array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/485_max-consecutive-ones.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/532_k-diff-pairs-in-an-array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

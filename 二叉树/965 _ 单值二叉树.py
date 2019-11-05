@@ -58,7 +58,6 @@ def post_traverse_tree(node: TreeNode):
     yield node.val
 
 
-
 if __name__ == "__main__":
     tree_value = [1,1,1,1,1,None,1]
     tree = gen_tree(tree_value)
