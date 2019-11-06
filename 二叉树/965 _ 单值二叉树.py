@@ -12,6 +12,12 @@ class TreeNode:
 
 class Solution:
     def isUnivalTree(self, root: TreeNode) -> bool:
+        print("?? hi")
+        print(root.val)
+        while True:
+            _1 = root.left.val == root.right.val
+            break
+
         return True
 
 
@@ -34,37 +40,11 @@ def gen_tree(values: list) -> Union[TreeNode, None]:
     return root
 
 
-def pre_traverse_tree(node: TreeNode):
-    if node is None:
-        return
-    yield node.val
-    yield from pre_traverse_tree(node.left)
-    yield from pre_traverse_tree(node.right)
-
-
-def in_traverse_tree(node: TreeNode):
-    if node is None:
-        return
-    yield from pre_traverse_tree(node.left)
-    yield node.val
-    yield from pre_traverse_tree(node.right)
-
-
-def post_traverse_tree(node: TreeNode):
-    if node is None:
-        return
-    yield from pre_traverse_tree(node.left)
-    yield from pre_traverse_tree(node.right)
-    yield node.val
-
-
-
 if __name__ == "__main__":
-    tree_value = [1,1,1,1,1,None,1]
+    tree_value = [2,1,1,1,1,None,1]
     tree = gen_tree(tree_value)
-    print(list(pre_traverse_tree(tree)))
-    print(list(in_traverse_tree(tree)))
-    print(list(post_traverse_tree(tree)))
+    sol = Solution()
+    sol.isUnivalTree(root=tree)
 
-    
+
 
