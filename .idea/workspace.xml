@@ -184,13 +184,6 @@
       <option name="presentableId" value="Default" />
       <updated>1559032908827</updated>
     </task>
-    <task id="LOCAL-00031" summary="动态规划all easy done">
-      <created>1564112829373</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1564112829373</updated>
-    </task>
     <task id="LOCAL-00032" summary="尝试自己做medium难度的dp，好虐。。">
       <created>1564362446089</created>
       <option name="number" value="00032" />
@@ -527,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572946349198</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="。。。">
+      <created>1573037550248</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1573037550249</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TodoView">

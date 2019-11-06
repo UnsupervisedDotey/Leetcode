@@ -14,11 +14,18 @@ class Solution:
     def isUnivalTree(self, root: TreeNode) -> bool:
         print("?? hi")
         print(root.val)
+        cur_node = root
+        _1 = 1
         while True:
-            _1 = root.left.val == root.right.val
-            break
 
-        return True
+            if type(cur_node) is not TreeNode:
+
+                _1 *= float(cur_node.left.val == cur_node.right.val)
+                cur_node = cur_node.left
+            else:
+                break
+
+        return bool(_1)
 
 
 def gen_tree(values: list) -> Union[TreeNode, None]:
@@ -41,10 +48,10 @@ def gen_tree(values: list) -> Union[TreeNode, None]:
 
 
 if __name__ == "__main__":
-    tree_value = [2,1,1,1,1,None,1]
+    tree_value = [2,2,1,1,1,None,1]
     tree = gen_tree(tree_value)
     sol = Solution()
-    sol.isUnivalTree(root=tree)
+    print(sol.isUnivalTree(root=tree))
 
 
 
