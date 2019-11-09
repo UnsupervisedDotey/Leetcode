@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/二叉树/965 _ 单值二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/965 _ 单值二叉树.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -183,20 +182,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559032908827</updated>
-    </task>
-    <task id="LOCAL-00034" summary="sql groupby having">
-      <created>1566393307574</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1566393307575</updated>
-    </task>
-    <task id="LOCAL-00035" summary="sql groupby having">
-      <created>1566394066670</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1566394066670</updated>
     </task>
     <task id="LOCAL-00036" summary="sql where or">
       <created>1566402219861</created>
@@ -527,7 +512,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573039239670</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="11">
+      <created>1573282714496</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1573282714496</updated>
+    </task>
+    <task id="LOCAL-00084" summary="11">
+      <created>1573282742877</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1573282742877</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TodoView">
@@ -553,7 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="执行用时 :475 ms, 在所有 MySQL 提交中击败了45.93%的用户" />
     <MESSAGE value="执行用时 :116 ms, 在所有 Python3 提交中击败了42.20%的用户&#10;内存消耗 :16.1 MB, 在所有 Python3 提交中击败了100.00%的用户" />
     <MESSAGE value="执行用时 :343 ms, 在所有 MySQL 提交中击败了72.47%的用户" />
     <MESSAGE value="执行用时 :1014 ms, 在所有 MySQL 提交中击败了21.67%的用户" />
@@ -578,7 +576,8 @@
     <MESSAGE value="执行用时 :420 ms, 在所有 Python3 提交中击败了72.18%的用户&#10;内存消耗 :23.9 MB, 在所有 Python3 提交中击败了5.06%的用户" />
     <MESSAGE value="。。。" />
     <MESSAGE value="抄答案" />
-    <option name="LAST_COMMIT_MESSAGE" value="抄答案" />
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
