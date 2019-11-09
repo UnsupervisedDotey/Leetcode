@@ -24,7 +24,6 @@ class Solution(object):
         return len(set(vals)) == 1
 
 
-
 def gen_tree(values: list) -> Union[TreeNode, None]:
     if not values:
         return None

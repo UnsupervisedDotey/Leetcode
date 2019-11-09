@@ -37,7 +37,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -183,20 +183,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559032908827</updated>
-    </task>
-    <task id="LOCAL-00032" summary="尝试自己做medium难度的dp，好虐。。">
-      <created>1564362446089</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1564362446090</updated>
-    </task>
-    <task id="LOCAL-00033" summary="没做出来">
-      <created>1564457224341</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1564457224342</updated>
     </task>
     <task id="LOCAL-00034" summary="sql groupby having">
       <created>1566393307574</created>
@@ -527,7 +513,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573037550249</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="。。。">
+      <created>1573039128857</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1573039128857</updated>
+    </task>
+    <task id="LOCAL-00082" summary="抄答案">
+      <created>1573039239670</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1573039239670</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TodoView">
@@ -553,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="执行用时 :490 ms, 在所有 MySQL 提交中击败了90.92%的用户" />
     <MESSAGE value="执行用时 :475 ms, 在所有 MySQL 提交中击败了45.93%的用户" />
     <MESSAGE value="执行用时 :116 ms, 在所有 Python3 提交中击败了42.20%的用户&#10;内存消耗 :16.1 MB, 在所有 Python3 提交中击败了100.00%的用户" />
     <MESSAGE value="执行用时 :343 ms, 在所有 MySQL 提交中击败了72.47%的用户" />
@@ -578,7 +577,8 @@
     <MESSAGE value="top1" />
     <MESSAGE value="执行用时 :420 ms, 在所有 Python3 提交中击败了72.18%的用户&#10;内存消耗 :23.9 MB, 在所有 Python3 提交中击败了5.06%的用户" />
     <MESSAGE value="。。。" />
-    <option name="LAST_COMMIT_MESSAGE" value="。。。" />
+    <MESSAGE value="抄答案" />
+    <option name="LAST_COMMIT_MESSAGE" value="抄答案" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
