@@ -14,7 +14,7 @@ class Solution(object):
             else:
                 res *= 0
 
-        if len(matrix[0]) == 2:
+        if len(matrix[0]) == 2 and len(matrix) == 2:
             res *= matrix[0][0] == matrix[-1][-1]
 
         return res == 1
