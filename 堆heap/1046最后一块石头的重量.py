@@ -4,9 +4,11 @@ class Solution(object):
         :type stones: List[int]
         :rtype: int
         """
-
+        print("hello vscode")
         return 1
 
 
 if __name__ == "__main__":
-    pass
+    sol=Solution()
+    stones = []
+    print(sol.lastStoneWeight(stones))
