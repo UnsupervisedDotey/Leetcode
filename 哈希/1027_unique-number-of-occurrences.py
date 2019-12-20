@@ -1,5 +1,6 @@
 from collections import Counter
 
+
 class Solution:
     def uniqueOccurrences(self, arr) -> bool:
         counts = Counter(arr).values()
@@ -9,5 +10,5 @@ class Solution:
 
 if __name__ == "__main__":
     sol = Solution()
-    arr = [1,2,2,1,1,3]
+    arr = [1, 2, 2, 1, 1, 3]
     print(sol.uniqueOccurrences(arr=arr))
