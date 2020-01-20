@@ -2,154 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/动态规划/1025_divisor-game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/121_maxProfit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/198_rob.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/303_numArraySumRange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/392_is-subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/53_maxSubArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/62_uniquePaths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/70_climbStairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/746_minCostClimbingStairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/877_stoneGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/887 二维dp 动态规划 石子问题.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/_338_countBits_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/堆/1021_removeOuterParentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/堆/1046最后一块石头的重量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/堆/682_calPoints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程/1114_print-in-order.sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符/14_LongestCommonPrefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符/20_ValidParentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符/5_longestPalindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符/ReverseString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符/reverseWordsInAString3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数学/171_titleToNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数学/231_PowerOfTwo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数学/268_missing-number.sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数学/Fangling_Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数学/Fangling_reverseInteger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数学/Reverse Integer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数学/yiranHan_reverseInteger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数学/回文数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/1002 commonChars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/1051_heightChecker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/1064_fixed-point.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/118 YanghuiTriangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/119_pascals-triangle-ii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/11_maxArea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/122_bestTimeToBuyAndSellStock2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/136_singleNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/167_two-sum-ii-input-array-is-sorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/169_MajorityElement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/16_threeSumClosest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/189_rotate-array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/215_findKthLargest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/217_ContainsDuplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/219_contains-duplicate-ii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/238_ProductOfArrayExceptSelf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/26_RemoveDuplicatesFromSortedArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/283_move-zeroes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/33_SearchInRotatedSortedArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/35_search-insert-position.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/414_third-maximum-number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/448_find-all-numbers-disappeared-in-an-array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/46_Permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/485_max-consecutive-ones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/532_k-diff-pairs-in-an-array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/54_SpiralMatrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/566_reshape-the-matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/59_SpiralMatrix2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/66_plus-one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/766_toeplitz-matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/78_Subsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/832 flipAndInvertImage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/88_MergeSortedArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/999 numRookCaptures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/Two Sum/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/Two Sum/Fangling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数组/Two Sum/yiranHan_twosum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/链表/141_LinkedListCycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/链表/142_LinkedListCycle2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/链表/160_IntersectionOfTwoLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/链表/206_ReverseLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/链表/21_MergeTwoSortedLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/链表/237_DeleteNodeInALinkedList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/1002 commonChars.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/1051_heightChecker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/1064_fixed-point.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/118 YanghuiTriangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/119_pascals-triangle-ii.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/11_maxArea.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/122_bestTimeToBuyAndSellStock2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/136_singleNumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/167_two-sum-ii-input-array-is-sorted.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/169_MajorityElement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/16_threeSumClosest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/189_rotate-array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/215_findKthLargest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/217_ContainsDuplicate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/219_contains-duplicate-ii.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/238_ProductOfArrayExceptSelf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/26_RemoveDuplicatesFromSortedArray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/283_move-zeroes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/33_SearchInRotatedSortedArray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/35_search-insert-position.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/414_third-maximum-number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/448_find-all-numbers-disappeared-in-an-array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/46_Permutation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/485_max-consecutive-ones.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/532_k-diff-pairs-in-an-array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/54_SpiralMatrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/566_reshape-the-matrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/59_SpiralMatrix2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/66_plus-one.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/766_toeplitz-matrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/78_Subsets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/832 flipAndInvertImage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/88_MergeSortedArray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/999 numRookCaptures.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Two Sum/Example1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Two Sum/Fangling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Two Sum/yiranHan_twosum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/1025_divisor-game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/121_maxProfit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/198_rob.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/303_numArraySumRange.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/392_is-subsequence.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/53_maxSubArray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/62_uniquePaths.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/70_climbStairs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/746_minCostClimbingStairs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/877_stoneGame.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/887 二维dp 动态规划 石子问题.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/_338_countBits_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game/NimGame.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game/lfl7824833 - 快捷方式.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkList/141_LinkedListCycle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkList/142_LinkedListCycle2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkList/160_IntersectionOfTwoLinkedList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkList/206_ReverseLinkedList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkList/21_MergeTwoSortedLists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkList/237_DeleteNodeInALinkedList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math/171_titleToNumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math/231_PowerOfTwo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math/268_missing-number.sql.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math/Fangling_Palindrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math/Fangling_reverseInteger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math/Reverse Integer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math/yiranHan_reverseInteger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math/回文数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multi-thread/1114_print-in-order.sql.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/1021_removeOuterParentheses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/682_calPoints.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/14_LongestCommonPrefix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/20_ValidParentheses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/5_longestPalindrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/ReverseString.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/reverseWordsInAString3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/堆heap/1046最后一块石头的重量.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/堆/1046最后一块石头的重量.py" beforeDir="false" afterPath="$PROJECT_DIR$/堆/1046最后一块石头的重量.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -197,7 +51,7 @@
       <recent name="$PROJECT_DIR$/Math" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5_longestPalindrome">
+  <component name="RunManager" selected="Python.1046最后一块石头的重量 (1)">
     <configuration name="1027_unique-number-of-occurrences" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,6 +73,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1046最后一块石头的重量 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/堆" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/堆/1046最后一块石头的重量.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1046最后一块石头的重量" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -232,27 +107,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/堆heap/1046最后一块石头的重量.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="532_k-diff-pairs-in-an-array" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/532_k-diff-pairs-in-an-array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1046最后一块石头的重量 (1)" />
         <item itemvalue="Python.5_longestPalindrome" />
         <item itemvalue="Python.1046最后一块石头的重量" />
         <item itemvalue="Python.1027_unique-number-of-occurrences" />
         <item itemvalue="Python.965 _ 单值二叉树" />
-        <item itemvalue="Python.532_k-diff-pairs-in-an-array" />
       </list>
     </recent_temporary>
   </component>
@@ -733,34 +587,44 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="508" y="212" key="FileChooserDialogImpl/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1578294026894" />
-    <state width="1420" height="140" key="GridCell.Tab.0.bottom" timestamp="1578294154545">
+    <state width="1420" height="195" key="GridCell.Tab.0.bottom" timestamp="1579490759997">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1420" height="140" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1578294154545" />
-    <state width="1420" height="140" key="GridCell.Tab.0.center" timestamp="1578294154544">
+    <state width="1420" height="195" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579490759997" />
+    <state width="1420" height="195" key="GridCell.Tab.0.center" timestamp="1579490759996">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1420" height="140" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1578294154544" />
-    <state width="1420" height="140" key="GridCell.Tab.0.left" timestamp="1578294154543">
+    <state width="1420" height="195" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579490759996" />
+    <state width="1420" height="195" key="GridCell.Tab.0.left" timestamp="1579490759996">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1420" height="140" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1578294154543" />
-    <state width="1420" height="140" key="GridCell.Tab.0.right" timestamp="1578294154545">
+    <state width="1420" height="195" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579490759996" />
+    <state width="1420" height="195" key="GridCell.Tab.0.right" timestamp="1579490759997">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1420" height="140" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1578294154545" />
-    <state x="229" y="89" key="SettingsEditor" timestamp="1578294052228">
+    <state width="1420" height="195" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579490759997" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1579490613673">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1578294052228" />
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1579490613673" />
     <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1578294284824">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1578294284824" />
-    <state x="395" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1578293980281">
+    <state x="395" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1579489531849">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="395" y="266" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1578293980281" />
+    <state x="395" y="266" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579489531849" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1579489890795">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1579489890795" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
