@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/栈/155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/栈/1441.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/堆/mst_03_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/栈/mst_03_04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
       <recent name="$PROJECT_DIR$/Math" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.155">
+  <component name="RunManager" selected="Python.1441">
     <configuration name="1046最后一块石头的重量 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1046最后一块石头的重量" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1441" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/堆heap" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/栈" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/堆heap/1046最后一块石头的重量.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/栈/1441.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1441" />
         <item itemvalue="Python.155" />
         <item itemvalue="Python.mst_03_04" />
         <item itemvalue="Python.1046最后一块石头的重量 (1)" />
         <item itemvalue="Python.5_longestPalindrome" />
-        <item itemvalue="Python.1046最后一块石头的重量" />
       </list>
     </recent_temporary>
   </component>
@@ -176,13 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559032908827</updated>
-    </task>
-    <task id="LOCAL-00042" summary="执行用时 :563 ms, 在所有 MySQL 提交中击败了58.52%的用户">
-      <created>1566467321091</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1566467321091</updated>
     </task>
     <task id="LOCAL-00043" summary="执行用时 :563 ms, 在所有 MySQL 提交中击败了58.52%的用户">
       <created>1566467357840</created>
@@ -520,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589180303158</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="执行用时 :&#10;76 ms, 在所有 Python3 提交中击败了75.48%的用户&#10;内存消耗 :&#10;16.8 MB, 在所有 Python3 提交中击败了5.00%的用户">
+      <created>1589248639533</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1589248639533</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -537,7 +536,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="执行用时 :1014 ms, 在所有 MySQL 提交中击败了21.67%的用户" />
     <MESSAGE value="执行用时 :1404 ms, 在所有 MySQL 提交中击败了37.59%的用户" />
     <MESSAGE value="执行用时 :300 ms, 在所有 MySQL 提交中击败了78.62%的用户" />
     <MESSAGE value="执行用时 :279 ms, 在所有 MySQL 提交中击败了39.11%的用户" />
@@ -562,57 +560,58 @@
     <MESSAGE value="11" />
     <MESSAGE value="今天定出2020全年LeetCode计划" />
     <MESSAGE value="执行结果：通过&#10;执行用时 :36 ms, 在所有 Python3 提交中击败了77.86%的用户&#10;内存消耗 :13.7 MB, 在所有 Python3 提交中击败了100.00%的用户" />
-    <option name="LAST_COMMIT_MESSAGE" value="执行结果：通过&#10;执行用时 :36 ms, 在所有 Python3 提交中击败了77.86%的用户&#10;内存消耗 :13.7 MB, 在所有 Python3 提交中击败了100.00%的用户" />
+    <MESSAGE value="执行用时 :&#10;76 ms, 在所有 Python3 提交中击败了75.48%的用户&#10;内存消耗 :&#10;16.8 MB, 在所有 Python3 提交中击败了5.00%的用户" />
+    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :&#10;76 ms, 在所有 Python3 提交中击败了75.48%的用户&#10;内存消耗 :&#10;16.8 MB, 在所有 Python3 提交中击败了5.00%的用户" />
   </component>
   <component name="WindowStateProjectService">
     <state x="483" y="78" key="#xdebugger.evaluate" timestamp="1589179881690">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="483" y="78" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1589179881690" />
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1589180301911">
+    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1589248639436">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1589180301911" />
-    <state width="1420" height="293" key="GridCell.Tab.0.bottom" timestamp="1589248543176">
+    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1589248639436" />
+    <state width="1420" height="110" key="GridCell.Tab.0.bottom" timestamp="1589354366693">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1420" height="293" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589248543176" />
-    <state width="1420" height="293" key="GridCell.Tab.0.center" timestamp="1589248543175">
+    <state width="1420" height="110" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589354366693" />
+    <state width="1420" height="110" key="GridCell.Tab.0.center" timestamp="1589354366692">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1420" height="293" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589248543175" />
-    <state width="1420" height="293" key="GridCell.Tab.0.left" timestamp="1589248543175">
+    <state width="1420" height="110" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589354366692" />
+    <state width="1420" height="110" key="GridCell.Tab.0.left" timestamp="1589354366692">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1420" height="293" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589248543175" />
-    <state width="1420" height="293" key="GridCell.Tab.0.right" timestamp="1589248543176">
+    <state width="1420" height="110" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589354366692" />
+    <state width="1420" height="110" key="GridCell.Tab.0.right" timestamp="1589354366693">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1420" height="293" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589248543176" />
-    <state width="1420" height="298" key="GridCell.Tab.1.bottom" timestamp="1589248211077">
+    <state width="1420" height="110" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589354366693" />
+    <state width="1420" height="298" key="GridCell.Tab.1.bottom" timestamp="1589272959432">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1420" height="298" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589248211077" />
-    <state width="1420" height="298" key="GridCell.Tab.1.center" timestamp="1589248211076">
+    <state width="1420" height="298" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589272959432" />
+    <state width="1420" height="298" key="GridCell.Tab.1.center" timestamp="1589272959431">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1420" height="298" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1589248211076" />
-    <state width="1420" height="298" key="GridCell.Tab.1.left" timestamp="1589248211076">
+    <state width="1420" height="298" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1589272959431" />
+    <state width="1420" height="298" key="GridCell.Tab.1.left" timestamp="1589272959431">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1420" height="298" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1589248211076" />
-    <state width="1420" height="298" key="GridCell.Tab.1.right" timestamp="1589248211077">
+    <state width="1420" height="298" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1589272959431" />
+    <state width="1420" height="298" key="GridCell.Tab.1.right" timestamp="1589272959431">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1420" height="298" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589248211077" />
-    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1589180305005">
+    <state width="1420" height="298" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589272959431" />
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1589248640716">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1589180305005" />
-    <state x="522" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589246897116">
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1589248640716" />
+    <state x="522" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589354048087">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="522" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1589246897116" />
+    <state x="522" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1589354048087" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
