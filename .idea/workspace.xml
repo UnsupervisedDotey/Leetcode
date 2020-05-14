@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab802272-071d-4601-89c5-ea71caf4d6e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/栈/1047.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,28 @@
       <recent name="$PROJECT_DIR$/Math" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.844">
+  <component name="RunManager" selected="Python.1047">
+    <configuration name="1047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/栈" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/栈/1047.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1441" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,27 +134,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mst_03_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/堆" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/栈/mst_03_04.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="mst_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1047" />
         <item itemvalue="Python.844" />
         <item itemvalue="Python.mst_09" />
         <item itemvalue="Python.1441" />
         <item itemvalue="Python.155" />
-        <item itemvalue="Python.mst_03_04" />
       </list>
     </recent_temporary>
   </component>
@@ -174,13 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559032908827</updated>
-    </task>
-    <task id="LOCAL-00045" summary="执行用时 :284 ms, 在所有 MySQL 提交中击败了84.48%的用户">
-      <created>1566530487385</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1566530487386</updated>
     </task>
     <task id="LOCAL-00046" summary="执行用时 :284 ms, 在所有 MySQL 提交中击败了84.48%的用户">
       <created>1566547851247</created>
@@ -518,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589357979725</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="执行用时 :40 ms, 在所有 Python3 提交中击败了62.60%的用户&#10;内存消耗 :13.7 MB, 在所有 Python3 提交中击败了16.67%的用户">
+      <created>1589364282913</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1589364282913</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -535,7 +536,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="执行用时 :279 ms, 在所有 MySQL 提交中击败了39.11%的用户" />
     <MESSAGE value="执行用时 :132 ms, 在所有 Python3 提交中击败了8.37%的用户&#10;内存消耗 :13.9 MB, 在所有 Python3 提交中击败了100.00%的用户" />
     <MESSAGE value="执行用时 :312 ms, 在所有 Python3 提交中击败了30.45%的用户&#10;内存消耗 :22.1 MB, 在所有 Python3 提交中击败了5.26%的用户" />
     <MESSAGE value="执行用时 :76 ms, 在所有 Python3 提交中击败了57.14%的用户&#10;内存消耗 :14.1 MB, 在所有 Python3 提交中击败了5.47%的用户" />
@@ -560,33 +560,42 @@
     <MESSAGE value="执行用时 :&#10;76 ms, 在所有 Python3 提交中击败了75.48%的用户&#10;内存消耗 :&#10;16.8 MB, 在所有 Python3 提交中击败了5.00%的用户" />
     <MESSAGE value="执行用时 :48 ms, 在所有 Python3 提交中击败了12.46%的用户&#10;内存消耗 :13.7 MB, 在所有 Python3 提交中击败了100.00%的用户" />
     <MESSAGE value="执行用时 :2416 ms, 在所有 Python3 提交中击败了10.84%的用户&#10;内存消耗 :16.8 MB, 在所有 Python3 提交中击败了100.00%的用户" />
-    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :2416 ms, 在所有 Python3 提交中击败了10.84%的用户&#10;内存消耗 :16.8 MB, 在所有 Python3 提交中击败了100.00%的用户" />
+    <MESSAGE value="执行用时 :40 ms, 在所有 Python3 提交中击败了62.60%的用户&#10;内存消耗 :13.7 MB, 在所有 Python3 提交中击败了16.67%的用户" />
+    <option name="LAST_COMMIT_MESSAGE" value="执行用时 :40 ms, 在所有 Python3 提交中击败了62.60%的用户&#10;内存消耗 :13.7 MB, 在所有 Python3 提交中击败了16.67%的用户" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589425004099">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1589425004099" />
     <state x="483" y="78" key="#xdebugger.evaluate" timestamp="1589179881690">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="483" y="78" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1589179881690" />
-    <state x="241" y="0" key="CommitChangelistDialog2" timestamp="1589357979642">
+    <state x="241" y="23" width="770" height="877" key="CommitChangelistDialog2" timestamp="1589364282802">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="241" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1589357979642" />
-    <state width="1420" height="247" key="GridCell.Tab.0.bottom" timestamp="1589359454081">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="241" y="23" width="770" height="877" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1589364282802" />
+    <state width="1420" height="247" key="GridCell.Tab.0.bottom" timestamp="1589425045506">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1420" height="247" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589359454081" />
-    <state width="1420" height="247" key="GridCell.Tab.0.center" timestamp="1589359454080">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1420" height="247" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589424981300" />
+    <state width="1420" height="247" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1589425045506" />
+    <state width="1420" height="247" key="GridCell.Tab.0.center" timestamp="1589425045505">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1420" height="247" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589359454080" />
-    <state width="1420" height="247" key="GridCell.Tab.0.left" timestamp="1589359454080">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1420" height="247" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589424981299" />
+    <state width="1420" height="247" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1589425045505" />
+    <state width="1420" height="247" key="GridCell.Tab.0.left" timestamp="1589425045504">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1420" height="247" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589359454080" />
-    <state width="1420" height="247" key="GridCell.Tab.0.right" timestamp="1589359454081">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1420" height="247" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589424981299" />
+    <state width="1420" height="247" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1589425045504" />
+    <state width="1420" height="247" key="GridCell.Tab.0.right" timestamp="1589425045505">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1420" height="247" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589359454081" />
+    <state width="1420" height="247" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589424981300" />
+    <state width="1420" height="247" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1589425045505" />
     <state width="1420" height="298" key="GridCell.Tab.1.bottom" timestamp="1589272959432">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -603,10 +612,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1420" height="298" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589272959431" />
-    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1589357981317">
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1589364284690">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1589357981317" />
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1589364284690" />
     <state x="522" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589354048087">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
